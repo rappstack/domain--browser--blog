@@ -1,6 +1,6 @@
 {
 	"name": "@rappstack/domain--browser--blog",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"type": "module",
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
@@ -32,7 +32,7 @@
 		"./package.json": "./package.json"
 	},
 	"dependencies": {
-		"@rappstack/domain--any--blog": "workspace:*"
+		"@rappstack/domain--any--blog": "^0.1.0"
 	},
 	"devDependencies": {
 		"bun-types": "latest"
